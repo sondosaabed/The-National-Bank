@@ -19,10 +19,10 @@ Card: A payment card issued by TNB.
 DOB: Date of Birth.
 
 # Project Scope:
-	In this project a database system is designed for The National Bank (TNB) Ramallah, a financial institution that helps to meet financial and banking needs. It is used to manage the bank accounts data of users, create and view account details. Allow employees to make clients banking services and reach their account status.
+In this project a database system is designed for The National Bank (TNB) Ramallah, a financial institution that helps to meet financial and banking needs. It is used to manage the bank accounts data of users, create and view account details. Allow employees to make clients banking services and reach their account status.
 
 # Project Description: 
-	The bank management system will be designed to manage user’s data, allow employees to control and view operations and make transactions. Saves the time of waiting in the bank rows with a high level of security and ease of the banking process with the booking of rows system.
+The bank management system will be designed to manage user’s data, allow employees to control and view operations and make transactions. Saves the time of waiting in the bank rows with a high level of security and ease of the banking process with the booking of rows system.
 
 # About The National Bank:     
 Banking Process Specifications: 
