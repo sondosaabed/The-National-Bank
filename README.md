@@ -3,9 +3,9 @@
 This project was created as part of DATABASE SYSTEMS course. Team work.
 
 # Team:
-Sondos Aabed
-Eman Khalaf
-Hoson Haskoor
+Sondos Aabed<br />
+Eman Khalaf<br />
+Hoson Haskoor<br />
 
 # Terms and definitions: 
 TNB: The National Bank.
