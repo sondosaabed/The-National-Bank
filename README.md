@@ -4,7 +4,7 @@ This project was created as part of DATABASE SYSTEMS course. Team work.
 
 # Team:
 Sondos Aabed<br />
-Eman Khalaf<br />
+Eman Khalaf @EmanMofeed <br />
 Hoson Haskoor<br />
 
 # Terms and definitions: 
