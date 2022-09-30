@@ -17,6 +17,10 @@ public class DataBaseConnection {
     private String dbName = "bank";
     private Connection con;
 
+    public void connect() throws SQLException, ClassNotFoundException {
+        connectDB();
+    }
+
     private void connectDB() throws ClassNotFoundException, SQLException {
         dbURL = "jdbc:mysql://" + URL + ":" + port + "/" + dbName + "?verifyServerCertificate=false";
         Properties p = new Properties();
@@ -27,15 +31,26 @@ public class DataBaseConnection {
         Class.forName("com.mysql.jdbc.Driver");
         con = DriverManager.getConnection(dbURL, p);
     }
-
-    public void connect() throws SQLException, ClassNotFoundException {
-        connectDB();
-    }
-
+    
     public Connection getCon() {
         return con;
     }
 
+    public boolean ExecuteSElect(String SQL) throws SQLException {
+        try {
+            connect();
+            Statement stmt = con.createStatement();
+            stmt.executeQuery(SQL);
+            stmt.close();
+            con.close();
+            return true;
+        } catch (SQLException | ClassNotFoundException s) {
+            s.printStackTrace();
+            System.out.println("SQL statement is not executed!");
+            return false;
+        }
+    }
+    
     public boolean ExecuteStatement(String SQL) throws SQLException {
         try {
             connect();
@@ -50,4 +65,5 @@ public class DataBaseConnection {
             return false;
         }
     }
+  
 }
