@@ -1,8 +1,7 @@
 # The National Banking Management Solution for TNB
 
-This project was created as part of DATABASE SYSTEMS course. Team work.
-
-# Team:
+This project was created as part of DATABASE SYSTEMS course. 
+Team work:
 Sondos Aabed<br />
 Eman Khalaf @EmanMofeed <br />
 Hoson Haskoor<br />
@@ -90,31 +89,6 @@ Adding new employee:
 
 ![40](https://user-images.githubusercontent.com/65151701/157894775-85476bcc-4326-41d9-9929-2c6969e04fa4.png)
 
-Add new Manager:
-
-![5](https://user-images.githubusercontent.com/65151701/157894845-18f9b1b7-70c8-4478-b5e4-98b9f94bae0b.png)
-
-Add new Customer:
-
-![6](https://user-images.githubusercontent.com/65151701/157894925-586cd207-bd57-47ef-87de-94e2eb26f6e1.png)
-
-Add a new Account:
-
-![7](https://user-images.githubusercontent.com/65151701/157895017-8089e3ce-b91b-4a98-84dc-5bf11405493f.png)
-
-Add a new Loan:
-
-![8](https://user-images.githubusercontent.com/65151701/157895096-352f0739-3688-4654-9450-9663c8b5fccb.png)
-
-Add a new Payment: 
-When a user adds a new payment for their loan this transaction updates the amount of their loan
-
-![9](https://user-images.githubusercontent.com/65151701/157895255-58803567-631d-43ad-b3c5-4e18dc319450.png)
-
-Add a new card:
-
-![10](https://user-images.githubusercontent.com/65151701/157895551-c0ae1cd5-11c6-4934-a29b-692870f1dd15.png)
-
 Make a new transaction:
 When a user makes a new transaction their accoun't amount changes base on the transaction type (withdraw "-" or deposit "+") 
 ![11](https://user-images.githubusercontent.com/65151701/157895652-25e61948-a348-437f-ad8d-0030f670f0d2.png)
@@ -165,17 +139,3 @@ Successfully inserted:
 ![30](https://user-images.githubusercontent.com/65151701/157896565-5d9f3e6b-5b23-43d1-a004-a3ae313a32d1.png)
 
 ![31](https://user-images.githubusercontent.com/65151701/157896569-1c87e042-5ab7-4d86-8c8a-29db1493dfed.png)
-
-![32](https://user-images.githubusercontent.com/65151701/157896589-803dba22-b2d4-47dc-b8d4-36286534db95.png)
-
-![33](https://user-images.githubusercontent.com/65151701/157896591-22efe4bd-006f-4b67-8944-5e0008d8ee9c.png)
-
-![34](https://user-images.githubusercontent.com/65151701/157896621-949f5275-23fd-4be9-9d20-827cd7078e75.png)
-
-![36](https://user-images.githubusercontent.com/65151701/157896641-0af7d936-dc2e-47ba-8daf-b1a138a3c795.png)
-
-![37](https://user-images.githubusercontent.com/65151701/157896712-ee859e8f-f235-4e2d-bfe4-61b6efb11ec3.png)
-
-![38](https://user-images.githubusercontent.com/65151701/157896725-e4236ec3-0529-4340-bdfd-9288d69ba7b5.png)
-
-![39](https://user-images.githubusercontent.com/65151701/157896738-344e762c-48d9-4e93-8ce3-4b7b172c16c5.png)
