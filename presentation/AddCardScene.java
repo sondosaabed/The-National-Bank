@@ -42,7 +42,7 @@ public class AddCardScene {
         hello1.setTextFill(Color.GREY);
         pane2.add(hello1, 0, 0);
 
-        Image img9 = new Image("TNB.png");
+        Image img9 = new Image("images/TNB.png");
         ImageView v10 = new ImageView(img9);
         v10.setFitWidth(150);
         v10.setFitHeight(70);
