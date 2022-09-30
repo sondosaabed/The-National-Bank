@@ -2,7 +2,7 @@ package control;
 
 import java.io.IOException;
 
-import application.Login;
+import dataAccess.LoginQuery;
 import javafx.application.Platform;
 import javafx.scene.control.Button;
 import javafx.scene.control.PasswordField;
@@ -39,7 +39,7 @@ public class LoginControl {
 	
 	public void handle_run(Button run, Stage stage) {
 		run.setOnAction(e->{
-	        Login login = new Login();
+	        LoginQuery login = new LoginQuery();
 	        try {
 				if(login.login(getName().getText().trim(),getPass().getText().trim()) == true) {
 					showRunScene(stage);
