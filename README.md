@@ -23,35 +23,6 @@ In this project a database system is designed for The National Bank (TNB) Ramall
 # Project Description: 
 The bank management system will be designed to manage user’s data, allow employees to control and view operations and make transactions. Saves the time of waiting in the bank rows with a high level of security and ease of the banking process with the booking of rows system.
 
-# About The National Bank:     
-Banking Process Specifications: <br />
-Each Address has a City-name, Street-name and Postal-code.<br />
-Each bank has a bank-name and bank-ID.<br />
-Each branch has a branch-name, branch-ID, branch-phone, branch-email and branch-Address.<br />
-Each department has department-name, department-ID, department-phone, and department-email.<br /> 
-Each Manager has manager-ID, Manager-Name, Address, phone, DOB, Email, Gender, Password, and Salary.<br />
-Each Employee has an Employee-ID, Employee-Name, Address, DOB, Phone, Gender, Email, Password and Salary.<br />
-Each Customer has her/his customer file, Customer-ID, password, Customer-name, Address, Gender, DOB, and account.<br />
-Each Account has an account-number, account-name, open-date and balance.<br />
-Each Card has an expiration-date, limit and credit-ID.<br />
-Each Current-Account has a current-check.<br />
-Each Current-Check has a check-ID, status, date-issued and date-due.<br />
-Each Savings-Account has a savings-type.<br />
-Each Deposit-Account has a deposit-number, close-date, open-date, and interest-rate.<br />
-Each Transaction has a transaction-ID, trans-type, amount and date.<br />
-Each Loan has a loan-number, amount, loan-date and loan-type.<br />
-Each Payment has a payment-number, payment-amount and payment-date.<br />
-A bank may have many branches.<br />
-A branch can only be of a one bank, and must have many departments.<br />
-A department must have only one manager, and can have many employees.<br />
-A manager manages only one department and many employees. <br />
-An Employee can work on one department, and can serve many customers.<br /> 
-A customer may have many addresses, may have many accounts, may have many cards and may request many transactions. But a customer can only borrow one loan. <br />
-An account is either a current or a savings or a deposit.<br />
-A transaction is requested by one customer and controlled by one Employee.<br />
-A loan is given by a branch and must have many Payments.<br />
-A payment is paid by only one customer, and to only one loan.<br />
-
 # Entity-Relationship-Diagram:
 
 ![4](https://user-images.githubusercontent.com/65151701/157894387-69c12ea9-b207-4577-8a74-c19a96389ccf.jpg)
