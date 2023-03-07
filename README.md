@@ -1,10 +1,6 @@
 # The National Banking Management Solution for TNB
 
 This project was created as part of DATABASE SYSTEMS course. 
-Team work:
-Sondos Aabed<br />
-Eman Khalaf @EmanMofeed <br />
-Hoson Haskoor<br />
 
 # Terms and definitions: 
 TNB: The National Bank.<br />
