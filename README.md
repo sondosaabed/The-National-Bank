@@ -1,7 +1,3 @@
-# The National Banking Management Solution for TNB
-
-This project was created as part of DATABASE SYSTEMS course. 
-
 # Terms and definitions: 
 TNB: The National Bank.<br />
 Client: The National Bank.<br />
@@ -13,15 +9,13 @@ Customer file: Includes all the customer details (attributes).Account: Clients�
 Card: A payment card issued by TNB.<br />
 DOB: Date of Birth.<br />
 
-# Project Scope:
+# Project Scope & Description:
+This project was created as part of DATABASE SYSTEMS course. The National Banking Management Solution for TNB
+
 In this project a database system is designed for The National Bank (TNB) Ramallah, a financial institution that helps to meet financial and banking needs. It is used to manage the bank accounts data of users, create and view account details. Allow employees to make clients banking services and reach their account status.
 
-# Project Description: 
 The bank management system will be designed to manage user’s data, allow employees to control and view operations and make transactions. Saves the time of waiting in the bank rows with a high level of security and ease of the banking process with the booking of rows system.
 
-# Entity-Relationship-Diagram:
-
-![4](https://user-images.githubusercontent.com/65151701/157894387-69c12ea9-b207-4577-8a74-c19a96389ccf.jpg)
 
 # MySQL database code:
 https://github.com/sondosaabed/TNB-MySQL-
@@ -30,6 +24,10 @@ https://github.com/sondosaabed/TNB-MySQL-
 Booking Management System: As the clients of banks usually needs to save time of waiting in line Bank, this booking system would manage the booking and saves time. <br />
 
 Provide more high security: At some point of the process, the project might face security issues, that’s why the project system might need more safety and security.<br />
+
+# Entity-Relationship-Diagram:
+
+![4](https://user-images.githubusercontent.com/65151701/157894387-69c12ea9-b207-4577-8a74-c19a96389ccf.jpg)
 
 # App screenshots:
 Welcome to TNB:
