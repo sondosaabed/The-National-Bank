@@ -26,14 +26,6 @@ The bank management system will be designed to manage user’s data, allow emplo
 # MySQL database code:
 https://github.com/sondosaabed/TNB-MySQL-
 
-# Technology needed: 
-Computer, laptop.
-
-# Technology used: 
-Hardware: Intel® Core™ i7-10510U CPU, 12GB RAM. <br />
-Operating System: Microsoft Windows 10 pro.<br />
-Programming language: DB: MySQL, UI: (JavaFX) Back-end: Java. <br />
-
 # Possible Evolution: 
 Booking Management System: As the clients of banks usually needs to save time of waiting in line Bank, this booking system would manage the booking and saves time. <br />
 
